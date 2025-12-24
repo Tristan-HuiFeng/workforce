@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.venv/
+
+# VS Code
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+
+# Docker
+*.log
