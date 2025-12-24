@@ -6,6 +6,7 @@ A backend system for managing staff, shifts, and compliance tracking.
 
 ## 📂 Project Structure
 
+```text
 root/
 ├─ docker-compose.yaml
 ├─ be/
@@ -24,6 +25,7 @@ root/
 └─ db/
    ├─ schema.sql
    └─ seed.sql
+```
 
 ---
 
